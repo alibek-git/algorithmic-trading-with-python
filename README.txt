@@ -1,0 +1,2 @@
+The material in this project is for practice purposes only. The data and information presented in this repository is NOT an investment advice. 
+This content was created using data and a grant provided by IEX Cloud. You can learn more about IEX Cloud here: https://iexcloud.io/
